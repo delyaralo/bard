@@ -1,0 +1,2 @@
+E:/projects/Bard/Bard/android/app/.cxx/Debug/3w325m39/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/projects/Bard/Bard/android/app/.cxx/Debug/3w325m39/arm64-v8a/CMakeFiles/rebuild_cache.dir
